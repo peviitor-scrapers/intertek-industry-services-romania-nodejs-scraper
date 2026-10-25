@@ -1,0 +1,10 @@
+{
+  "id": "12841309",
+  "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
+  "brand": "Intertek",
+  "status": "activ",
+  "location": ["Bucuresti"],
+  "website": ["https://www.intertek.com"],
+  "career": ["https://apply.workable.com/intertek/"],
+  "scraperFile": "https://github.com/peviitor-scrapers/intertek-industry-services-romania-nodejs-scraper/actions/workflows/scrape.yml"
+}
