@@ -7,14 +7,14 @@
 | CIF | 12841309 |
 | Brand | Intertek |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 5, CALEA RAHOVEI, NR.266-268, CORP 61, AXELE C - D, STÂLPII 181-201, CAMERA 55A, ET.1 |
+| Location | Bucuresti |
 | Website | [https://www.intertek.com](https://www.intertek.com) |
 | Careers | [https://apply.workable.com/intertek/](https://apply.workable.com/intertek/) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
 ## Current Job Listings (18)
 
-_Generated: 2026-11-01T12:54:07.155Z_
+_Generated: 2026-11-02T15:07:05.930Z_
 
 ### Asset Integrity Engineering Services Sales Champion
 
