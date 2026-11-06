@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 5, CALEA RAHOVEI, NR.266-268, CORP 61, AXELE C - D, STÂLPII 181-201, CAMERA 55A, ET.1 |
 | Website | [https://www.intertek.com](https://www.intertek.com) |
 | Careers | [https://apply.workable.com/intertek/](https://apply.workable.com/intertek/) |
-| Last Scraped | 2026-11-05 |
+| Last Scraped | 2026-11-06 |
 
-## Current Job Listings (18)
+## Current Job Listings (19)
 
-_Generated: 2026-11-05T14:19:02.335Z_
+_Generated: 2026-11-06T13:56:58.062Z_
 
 ### Asset Integrity Engineering Services Sales Champion
 
@@ -112,6 +112,13 @@ _Generated: 2026-11-05T14:19:02.335Z_
 - **URL:** [https://apply.workable.com/j/B949257741](https://apply.workable.com/j/B949257741)
 - **Work Mode:** remote
 - **Location:** România
+- **Status:** scraped
+
+### Senior Inspector - NDT & Welding Inspection
+
+- **URL:** [https://apply.workable.com/j/6B496A36C4](https://apply.workable.com/j/6B496A36C4)
+- **Work Mode:** on-site
+- **Location:** Bucharest
 - **Status:** scraped
 
 ### Senior Welding Inspector
