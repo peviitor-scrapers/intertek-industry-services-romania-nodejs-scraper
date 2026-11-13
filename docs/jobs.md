@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 5, CALEA RAHOVEI, NR.266-268, CORP 61, AXELE C - D, STÂLPII 181-201, CAMERA 55A, ET.1 |
 | Website | [https://www.intertek.com](https://www.intertek.com) |
 | Careers | [https://apply.workable.com/intertek/](https://apply.workable.com/intertek/) |
-| Last Scraped | 2026-11-12 |
+| Last Scraped | 2026-11-13 |
 
 ## Current Job Listings (19)
 
-_Generated: 2026-11-12T14:51:20.221Z_
+_Generated: 2026-11-13T14:13:11.853Z_
 
 ### Asset Integrity Engineering Services Sales Champion
 
