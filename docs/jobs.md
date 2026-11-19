@@ -10,11 +10,11 @@
 | Location | Bucuresti |
 | Website | [https://www.intertek.com](https://www.intertek.com) |
 | Careers | [https://apply.workable.com/intertek/](https://apply.workable.com/intertek/) |
-| Last Scraped | 2026-11-18 |
+| Last Scraped | 2026-11-19 |
 
 ## Current Job Listings (19)
 
-_Generated: 2026-11-18T15:21:22.857Z_
+_Generated: 2026-11-19T15:28:17.038Z_
 
 ### Asset Integrity Engineering Services Sales Champion
 
