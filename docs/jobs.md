@@ -7,14 +7,14 @@
 | CIF | 12841309 |
 | Brand | Intertek |
 | Status | activ |
-| Location | Bucuresti |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 5, CALEA RAHOVEI, NR.266-268, CORP 61, AXELE C - D, STÂLPII 181-201, CAMERA 55A, ET.1 |
 | Website | [https://www.intertek.com](https://www.intertek.com) |
 | Careers | [https://apply.workable.com/intertek/](https://apply.workable.com/intertek/) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
-## Current Job Listings (19)
+## Current Job Listings (21)
 
-_Generated: 2026-11-19T15:28:17.038Z_
+_Generated: 2026-11-20T15:04:29.206Z_
 
 ### Asset Integrity Engineering Services Sales Champion
 
@@ -35,6 +35,13 @@ _Generated: 2026-11-19T15:28:17.038Z_
 - **URL:** [https://apply.workable.com/j/3D2DA7F065](https://apply.workable.com/j/3D2DA7F065)
 - **Work Mode:** on-site
 - **Location:** România
+- **Status:** scraped
+
+### Electrical Inspector (Owner's Engineer)
+
+- **URL:** [https://apply.workable.com/j/FE28BF54D8](https://apply.workable.com/j/FE28BF54D8)
+- **Work Mode:** on-site
+- **Location:** Bucharest
 - **Status:** scraped
 
 ### Electrical Inspector - Industrial & Automation Projects
@@ -145,6 +152,13 @@ _Generated: 2026-11-19T15:28:17.038Z_
 ### Technical and Quality Manager
 
 - **URL:** [https://apply.workable.com/j/5B4177E45E](https://apply.workable.com/j/5B4177E45E)
+- **Work Mode:** on-site
+- **Location:** Bucharest
+- **Status:** scraped
+
+### Telecommunications / SCADA Inspector
+
+- **URL:** [https://apply.workable.com/j/284F3EE8F8](https://apply.workable.com/j/284F3EE8F8)
 - **Work Mode:** on-site
 - **Location:** Bucharest
 - **Status:** scraped
